@@ -1,1 +1,8 @@
+# .gitignore itself
+.gitignore
+
+# virtualenv
+venv
+
+# sensitive information
 .env
